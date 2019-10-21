@@ -27,7 +27,7 @@ body{
 }
 
 .pr-15{
-    padding-right: 15px;
+    padding-right: 15px !important;
 }
 
 .p-20{
